@@ -1,1 +1,1 @@
-# BWSI_Python_Core_2023: Note: I wrote algorithms, programmed them and solved assingments. Notebooks were written by David Mascharka and Ryan Soklaski Beaver Works Summer Institute, Massachusetts Institute of Technology (MIT).
+Projects and Assignments during BWSI Pyton Core course. Note: I wrote algorithms, programmed them and solved assingments. Notebooks were written by David Mascharka and Ryan Soklaski Beaver Works Summer Institute, Massachusetts Institute of Technology (MIT).
